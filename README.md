@@ -6,4 +6,4 @@ One only need to go into this folder and find the example file and run it.
 For more details go to paper 'Modeling Reactive Multi-Component Multi-Phase
 Flow for Geological Carbon Sequestration (GCS) with  Matlab'.
 
-If one want to see the simulation results given in the aformentioned paper, one can visit https://zenodo.org/record/6956860
+If one want to see the simulation results given in the aformentioned paper, one can visit https://zenodo.org/record/6956860 (new version: https://zenodo.org/record/7421495#.Y5Q-hn3MJaR)
